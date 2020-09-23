@@ -6,7 +6,7 @@
 /////////////////////////////
 
 // comm_conf2.c 1st changed....
-
+// comm_conf2.c 1st changed....2nd..... for void commit message
 
 /////////////////////////////
 // Local Variables
